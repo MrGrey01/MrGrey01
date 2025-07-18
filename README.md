@@ -1,5 +1,4 @@
-- ### Hi there, I'm [Mr Grey](https://mrgrey01.github.io) 👋
-  <h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank"> Mr Grey</a></h1>
+<h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank"> Mr Grey</a></h1>
 <h3 align="center">A passionate Mobile & Web developer</h3>
 
 I completed my PhD in Machine Learning from [Federation University](https://federation.edu.au), Australia. I am a seasonal ML developer who loves writing articles (on Machine Learning, Data Science, Productivity and PhD Tips) and contributing to open source projects.
@@ -84,13 +83,7 @@ I completed my PhD in Machine Learning from [Federation University](https://fede
 | <a href="https://github.com/mrgrey01/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mrgrey01&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Mr Greys's github stats" /></a> | <a href="https://github.com/mrgrey01/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrgrey01&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-## <!--
 
-[<img src="https://github-profile-trophy.vercel.app/?username=durgeshsamariya&row=2&column=3" />](https://github.com/ryo-ma/github-profile-trophy)
-[<img src="https://github-readme-stats.vercel.app/api?username=durgeshsamariya&theme=algolia&count_private=true&include_all_commits=true&show_icons=true" />](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=durgeshsamariya&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
-[![Durgesh's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=themlphdstudent&theme=algolia&hide=Jupyter&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
--->
 
 <!--
 **themlphdstudent/themlphdstudent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
